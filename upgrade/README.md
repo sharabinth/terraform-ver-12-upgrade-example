@@ -98,3 +98,5 @@ variable "ami" {
   type = string
 }
 ```
+
+This repo contains the output after the execution of the upgrade command
